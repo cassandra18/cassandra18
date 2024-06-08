@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, My Name is Cassandra LELEI</h1>
-<div id="header" align="center">
-  <div id="badges" align="center">
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
-</div>
-</div>
-<h3 align="center">I am an Enthusiastic Tech Learner, An engineering student</h3>
-<a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="right" height="48" width="48" ></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
+
 
 ## About
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
