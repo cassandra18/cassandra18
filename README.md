@@ -1,6 +1,17 @@
 <h1 align="center">Hi👋 my name is Cassandra Lelei</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
-<img align="right" src="https://i.pinimg.com/564x/7c/2b/ac/7c2bacf83a09e8390eb6802a57d22c88.jpg" alt="girl working with different coding softwares"/>
+<img src="https://i.pinimg.com/564x/7c/2b/ac/7c2bacf83a09e8390eb6802a57d22c88.jpg" alt="girl working with different coding softwares" style="border-radius: 6px; display: block; margin: auto; float: right;" class="responsive-img"/>
+
+<style>
+  @media only screen and (max-width: 600px) {
+    .responsive-img {
+      float: none !important;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+</style>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassandra18&label=Profile%20views&color=0e75b6&style=flat" alt="cassandra18" /> </p>
 
