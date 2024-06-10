@@ -1,4 +1,4 @@
-<h1 align="center"><img width="200px" heigh="200px" src="https://i.pinimg.com/originals/5b/ba/39/5bba3962f78bac3777d220c570d5b178.gif" alt="Hello" /> my name is Cassandra Lelei</h1>
+<h1 align="center"><img width="100px" heigh="100px" src="https://i.pinimg.com/originals/5b/ba/39/5bba3962f78bac3777d220c570d5b178.gif" alt="Hello" /> my name is Cassandra Lelei</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 <img align="right" src="https://i.pinimg.com/564x/7c/2b/ac/7c2bacf83a09e8390eb6802a57d22c88.jpg" alt="girl working with different coding softwares"/>
 
