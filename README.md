@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋 my name is Cassandra Lelei</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
-<img src="https://i.pinimg.com/564x/7c/2b/ac/7c2bacf83a09e8390eb6802a57d22c88.jpg" height="400px" width="400px" alt="girl working with different coding softwares" align="right"/>
+<img src="https://i.pinimg.com/564x/7c/2b/ac/7c2bacf83a09e8390eb6802a57d22c88.jpg" height="300px" width="300px" alt="girl working with different coding softwares" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassandra18&label=Profile%20views&color=0e75b6&style=flat" alt="cassandra18" /> </p>
 
